@@ -65,7 +65,7 @@ I live at the intersection of SIEM engineering, threat intelligence, and inciden
 
 | Role | Organization | Period |
 |:-----|:-------------|:-------|
-| **Threat Hunting Specialist** | IBM — Doha, Qatar | Feb 2026 – Present |
+| **Sr. Cyber Threat Hunter** | IBM — Doha, Qatar | Feb 2026 – Present |
 | **IR SOC Lead** | Dell Technologies — Dubai, UAE | Sep 2025 – Feb 2026 |
 | **Sr. Cyber Security Analyst (L3)** | Dell Technologies — Dubai, UAE | Apr 2024 – Sep 2025 |
 | **Security Analyst L3 / TAM** | Rewterz — Karachi, Pakistan | Aug 2022 – Apr 2024 |
@@ -94,7 +94,7 @@ I live at the intersection of SIEM engineering, threat intelligence, and inciden
 
 ### 🏦 Industry Exposure
 
-Defended environments across **government** (NCSA Qatar, Dubai Health), **banking** (Habib Bank, National Bank of Pakistan, Summit Bank, Bank of China, Habib Metropolitan, Faysal Bank), and **aviation** (Pakistan International Airlines).
+Defended environments across **government** (Ministries Of Qatar, Dubai Health), **banking** (Habib Bank, National Bank of Pakistan, Summit Bank, Bank of China, Habib Metropolitan, Faysal Bank), and **aviation** (Pakistan International Airlines).
 
 ---
 
