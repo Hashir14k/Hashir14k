@@ -1,6 +1,6 @@
 # 👾 Hashir Hassan
 
-### Threat Hunting Specialist • Security Systems Engineer • SOC L3
+### Sr. Cyber Threat Hunter • Security Systems Engineer • SOC L3
 
 <p align="left">
   <a href="mailto:hashir14k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ### 🔍 About Me
 
-Proactive **Threat Hunting Specialist** with deep expertise in security event monitoring, incident response, and adversary detection across complex enterprise environments. Currently hunting threats at **IBM**, previously leading SOC operations at **Dell Technologies**.
+Proactive **Cyber Threat Hunter** with deep expertise in security event monitoring, incident response, and adversary detection across complex enterprise environments. Currently hunting threats at **IBM**, previously leading SOC operations at **Dell Technologies**.
 
 I live at the intersection of SIEM engineering, threat intelligence, and incident response — building detections that catch what automated tools miss.
 
