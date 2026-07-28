@@ -61,26 +61,6 @@ I live at the intersection of SIEM engineering, threat intelligence, and inciden
 
 ---
 
-### ⚔️ Experience
-
-| Role | Organization | Period |
-|:-----|:-------------|:-------|
-| **Sr. Cyber Threat Hunter** | IBM — Doha, Qatar | Feb 2026 – Present |
-| **IR SOC Lead** | Dell Technologies — Dubai, UAE | Sep 2025 – Feb 2026 |
-| **Sr. Cyber Security Analyst (L3)** | Dell Technologies — Dubai, UAE | Apr 2024 – Sep 2025 |
-| **Security Analyst L3 / TAM** | Rewterz — Karachi, Pakistan | Aug 2022 – Apr 2024 |
-| **Information Security Analyst (L2)** | Rewterz — Karachi, Pakistan | Nov 2019 – Jul 2022 |
-| **Information Security Analyst** | Rewterz — Karachi, Pakistan | Sep 2018 – Oct 2019 |
-
----
-
-### 🎓 Education
-
-- **MBA — Cyber Governance & Law** • Abertay University *(2024–2026)*
-- **BSCS — Computer Science** • Preston University *(2016–2020)*
-
----
-
 ### 📊 Frameworks & Methodology
 
 <p align="center">
