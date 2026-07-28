@@ -43,7 +43,7 @@ I live at the intersection of SIEM engineering, threat intelligence, and inciden
 | 🔴 Detect | 🟡 Respond | 🟢 Engineer |
 |:--|:--|:--|
 | Proactive Threat Hunting | Incident Management & Response | SIEM Detection Engineering |
-| Behavioural Analysis | Root Cause Analysis | SOAR Playbook Automation |
+| Malware Analysis | Root Cause Analysis | SOAR Playbook Automation |
 | Compromise Assessment | Containment & Remediation | Log Source Integration |
 | OSINT & Threat Intel Fusion | SOC SOPs & Runbooks | Correlation Rule Tuning |
 
