@@ -72,12 +72,6 @@ I live at the intersection of SIEM engineering, threat intelligence, and inciden
 
 ---
 
-### 🏦 Industry Exposure
-
-Defended environments across **government** (Ministries Of Qatar, Dubai Health), **banking** (Habib Bank, National Bank of Pakistan, Summit Bank, Bank of China, Habib Metropolitan, Faysal Bank), and **aviation** (Pakistan International Airlines).
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mytrexdude&label=Threat%20Intel%20Signals&color=dc143c&style=flat-square" />
 </p>
