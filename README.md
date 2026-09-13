@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="mailto:hashir14k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hashirhassan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hashir-hassan-16935a170/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Doha%2C%20Qatar-%23000000?style=for-the-badge&logo=pin&logoColor=white" />
 </p>
 
@@ -24,7 +24,6 @@ I live at the intersection of SIEM engineering, threat intelligence, and inciden
   <img src="https://img.shields.io/badge/SIEM-Qradar-052FAD?style=flat-square&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-RSA%20NetWitness-0066A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analytics-Palantir%20Foundry-101010?style=flat-square" />
   <img src="https://img.shields.io/badge/EDR-CrowdStrike-EC1C24?style=flat-square&logo=crowdstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/EDR-Carbon%20Black-00A3E0?style=flat-square" />
   <img src="https://img.shields.io/badge/EDR-Sentinel%20One-6B46C1?style=flat-square" />
